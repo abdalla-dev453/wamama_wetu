@@ -1,0 +1,49 @@
+# Miscellaneous
+*.class
+*.lock
+*.log
+*.pyc
+*.swp
+.DS_Store
+.atom/
+.buildlog/
+.history
+.svn/
+
+# IDE related
+.idea/
+.vscode/
+*.iml
+*.ipr
+*.iws
+
+# Flutter/Dart
+/pub/
+/.dart_tool/
+/build/
+/flutter_tools.dart
+/flutter_tools.snapshot
+/flutter_tools.stamp
+/cache/
+/pubspec.lock
+
+# Android
+build/
+.gradle/
+local.properties
+*.keystore
+*.jks
+android/.gradle/
+android/app/build/
+android/app/.gradle/
+
+# iOS
+**/Pods/
+**/Podfile.lock
+**/Pods/
+*.xcworkspace
+*.xcconfig
+DerivedData/
+
+# Env
+.env
